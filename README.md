@@ -1,38 +1,37 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF007F&height=180&section=header&text=Seja+Bem-vindo&fontSize=25&fontColor=#FFB6C1&animation=twinkling&fontAlignY=35"/>
-<div>
-  ### Informações Pessoais
-</div>
+
+### Informações Pessoais
+
 
 
 Oiii, me chamo Marya Eduarda, tenho 17 anos e gosto de música de diversos gêneros, gosto de desenhar e pintar e procuro desenvolver mais nessa área. Estou cursando informática no Instituto Federal no Maranhão, no segundo ano.
+
 <div align="center">
-  <img width=35% src=""/>
+  <img width=35% src="https://github.com/letycynhaJhonson/letycynhaJhonson/blob/main/Pintora.jpeg"/>
 </div>
 
-<div>
-  ### Informações Profissionais 
-</div>
+
+### Informações Profissionais 
+
 
 Por enquanto, sou apenas estudando informática, mas quero fazer faculdade de Direito e se tornar advogada.
 
 <div align="center">
-  <img width=35% src=""/>
+  <img width=35% src="https://github.com/letycynhaJhonson/letycynhaJhonson/blob/main/download%20(1).jpeg"/>
 </div>
 
-<div>
-  ### Habilidades Pessoais
-</div>
+### Habilidades Pessoais
+
 
 Como eu disse, eu gosto muito de desenhar e tenho afinidade para isso, assim como também gosto de pintar meus desenhos.
 <div align="center">
-  <img width=35.5% src=""/>
+  <img width=35.5% src="https://github.com/letycynhaJhonson/letycynhaJhonson/blob/main/download%20(2).jpeg"/>
 </div>
 
-<div>
-  ### Contatos
-</div>
+### Contatos
+
 Esses são meus contatos:
 
 <a href = "https://www.instagram.com/__maryalica/profilecard/?igsh=MWoyMHp2enhrcnJxZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -50,8 +49,8 @@ Esses são meus contatos:
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
 
 <div align="center"> 
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=letycynhaJhonson&show_icons=true&count_private=true&hide_border=true&title_color=D41b22&icon_color=D41b22&text_color=ffffff&bg_color=0d1117" alt="Status de Alike" /> 
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letycynhaJhonson&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
+  <img width="69%" height="180px" src="https://github-readme-stats.vercel.app/api?username=letycynhaJhonson&show_icons=true&count_private=true&hide_border=true&title_color=D41b22&icon_color=D41b22&text_color=ffffff&bg_color=0d1117" alt="Status de Alike" /> 
+  <img width="69%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letycynhaJhonson&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <div>
@@ -59,7 +58,7 @@ Esses são meus contatos:
 </div>
 
 <div align="center">
-  <img width="80%" height="200px" src="https://streak-stats.demolab.com/?user=letycynhaJhonson&theme=react&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats">  
+  <img width="90%" height="200px" src="https://streak-stats.demolab.com/?user=letycynhaJhonson&theme=react&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats">  
 </div>
 
 
