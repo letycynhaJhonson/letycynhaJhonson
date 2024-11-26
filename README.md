@@ -16,7 +16,7 @@ Oiii, me chamo Marya Eduarda, tenho 17 anos e gosto de música de diversos gêne
 ### Informações Profissionais 
 
 
-Por enquanto, sou apenas estudando informática, mas quero fazer faculdade de Direito e se tornar advogada.
+Por enquanto, sou apenas estudando informática, mas quero fazer faculdade de Direito e me tornar advogada.
 
 <div align="center">
   <img width=50% src="https://github.com/letycynhaJhonson/letycynhaJhonson/blob/main/download%20(1).jpeg"/>
